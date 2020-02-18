@@ -1,5 +1,5 @@
 # CardDeck
-Deck of cards for the game of war
+This was a project we were given in class. We were given a base set of code for the game, and had to implement changes to complete the task listed below.
 
 # TODO
 1. //TODO: Shuffle deck
